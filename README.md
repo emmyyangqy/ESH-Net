@@ -19,7 +19,7 @@ Figure 1.  Testing Accuracy of ESH-Net and SOTA models with ES-MAP and Facial Im
 
 TABLE II. 	TESTING LOSS 
 
-<img width="1073" alt="image" src="https://github.com/emmyyangqy/ESH-Net/assets/91351762/c04d246c-0e7a-464c-aab4-391f6fd57e66">
+<img width="600" alt="image" src="https://github.com/emmyyangqy/ESH-Net/assets/91351762/c04d246c-0e7a-464c-aab4-391f6fd57e66">
 
 
 
