@@ -1,6 +1,8 @@
 # ESH-Net
 A facial emotion recognition system that utilizes emotional state heatmaps (ES-MAP) and a CNN-based model (ESH-Net)
 
+
+Flowchart Represention of ES-MAP generation and 
 ![image](https://github.com/emmyyangqy/ESH-Net/assets/91351762/579c63fc-09d3-4051-a1f8-170c9a68e683)
 
 
