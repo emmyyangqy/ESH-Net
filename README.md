@@ -3,7 +3,8 @@ A facial emotion recognition system that utilizes emotional state heatmaps (ES-M
 
 
 Flowchart Represention of ES-MAP generation and 
-![image](https://github.com/emmyyangqy/ESH-Net/assets/91351762/579c63fc-09d3-4051-a1f8-170c9a68e683)
+<img width="1092" alt="image" src="https://github.com/emmyyangqy/ESH-Net/assets/91351762/56d9e488-a71d-4eb5-b2ec-81e9d1ea54b8">
+
 
 
 # References
