@@ -23,6 +23,6 @@ TABLE II. 	TESTING LOSS
 
 TABLE III.  PATTERNS OF FACIAL EXPRESSIONS FOR THE SEVEN UNIVERSAL EMOTIONS 
 
-<img width="600" alt="image" src="https://github.com/emmyyangqy/ESH-Net/assets/91351762/3e179757-2639-4687-ba14-ee158c9960d7">
+<img width="800" alt="image" src="https://github.com/emmyyangqy/ESH-Net/assets/91351762/3e179757-2639-4687-ba14-ee158c9960d7">
 
 
