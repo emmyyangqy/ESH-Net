@@ -1,4 +1,4 @@
-![emotions7](https://github.com/emmyyangqy/ESH-Net/assets/91351762/768de991-78c1-4b37-97e9-89d5cdc7548d)# ESH-Net
+# ESH-Net
 A facial emotion recognition system that utilizes emotional state heatmaps (ES-MAP) and a CNN-based model (ESH-Net)
 
 
